@@ -1,0 +1,90 @@
+.widget-container {
+  margin-right: 1em;
+  /* padding: 20px; */
+  /* max-width: 550px;
+  min-width: 300px; */
+}
+
+.buttonElement {
+  padding-bottom: 1em;
+  padding-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 1em;
+}
+
+.detailPanels {
+  flex-direction: row;
+  display: flex;
+  padding: 0.2em;
+  margin: 0.2em;
+}
+
+.detailPanelsV {
+  flex-direction: column;
+  display: flex;
+  padding: 0.2em;
+  margin: 0.2em;
+}
+.detailPanel {
+  padding: 1em;
+  margin: 1em;
+  width: 800px;
+}
+
+.myHidden {
+  display: none;
+}
+
+.gridPanel {
+  padding: 1em;
+  margin: 1em;
+}
+.gridPanel2 {
+  padding-top: 3em;
+  margin: 1em;
+}
+
+.gridPanelHidden {
+  padding: 1em;
+  margin: 1em;
+  display: none;
+}
+
+#form {
+  margin-top: 0.1em;
+}
+.options {
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 260px;
+  top: 0;
+  background-color: rgba(191, 191, 191, 0.15);
+}
+.caption {
+  font-size: 18px;
+  font-weight: 500;
+}
+.option {
+  margin-top: 10px;
+}
+
+.dx-field {
+  margin-bottom: 50px;
+}
+
+.ddlGridControl {
+  width: 900px;
+  margin-top: 5em;
+  margin-bottom: 1em;
+}
+.ddlGridLabelControl {
+  width: 900px;
+  margin-bottom: 5em;
+}
+
+.commandButton {
+  padding-top: 1em;
+  padding-right: 1em;
+}

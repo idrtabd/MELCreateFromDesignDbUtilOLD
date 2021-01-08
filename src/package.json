@@ -1,0 +1,21 @@
+{
+  "name": "gwy-refactored-working-4",
+  "description": "You can use the DataGrid widget to display and edit data from an array of objects. Use the dataSource and keyExpr options to specify the bound array and its key field. For more information, refer to the following help topic: Local Array.\nUse the columns option to specify a list of data fields you want to display within the DataGrid as columns. If the columns option is not specified, the widget creates columns for all data fields available in objects from the bound array.\n",
+  "dependencies": {
+    "devexpress-diagram": "2.0.5",
+    "devexpress-gantt": "2.0.8",
+    "devextreme": "20.2.4",
+    "devextreme-quill": "0.9.7",
+    "devextreme-react": "20.2.4",
+    "es6-object-assign": "1.1.0",
+    "jszip": "3.5.0",
+    "luxon": "1.25.0",
+    "preact": "10.5.7",
+    "prop-types": "15.7.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-router-dom": "5.2.0",
+    "rrule": "2.6.6"
+  },
+  "keywords": []
+}
